@@ -1,12 +1,13 @@
-<h1 align="center">Hi, I'm Taeyoon Kim 👋</h1>
-
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com?lines=Software+Engineer;React+%C2%B7+TypeScript+%C2%B7+Node.js;AWS+%C2%B7+Docker+%C2%B7+Kubernetes+%C2%B7+CI/CD&center=true&width=520&height=45&color=3FB950&vCenter=true&pause=1200">
-    <img src="https://readme-typing-svg.demolab.com?lines=Software+Engineer;React+%C2%B7+TypeScript+%C2%B7+Node.js;AWS+%C2%B7+Docker+%C2%B7+Kubernetes+%C2%B7+CI/CD&center=true&width=520&height=45&color=3FB950&vCenter=true&pause=1200" alt="typing" />
-  </a>
-</p>
-
-### 🛠 tech stack
+```ts
+// profile.ts
+const engineer = {
+  role: "Software Engineer",
+  languages: ["TypeScript", "JavaScript"],
+  backend: ["Node.js", "PostgreSQL"],
+  infra: ["AWS", "Docker", "Kubernetes", "GitHub Actions"],
+  habit: "rebuild things from scratch to understand them",
+} as const;
+```
 
 <div align="center">
 
