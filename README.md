@@ -1,13 +1,6 @@
-```ts
-// profile.ts
-const engineer = {
-  role: "Software Engineer",
-  languages: ["TypeScript", "JavaScript"],
-  backend: ["Node.js", "PostgreSQL"],
-  infra: ["AWS", "Docker", "Kubernetes", "GitHub Actions"],
-  habit: "rebuild things from scratch to understand them",
-} as const;
-```
+![header](https://capsule-render.vercel.app/api?type=slice&color=2EA043&height=170&section=header&text=Taeyoon%20Kim&fontAlignX=50&fontAlignY=65&fontSize=90&animation=twinkling)
+
+<h3 align="center">👋 &nbsp;Software Engineer</h3>
 
 <div align="center">
 
@@ -20,3 +13,5 @@ const engineer = {
 </a>
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=2EA043&height=100&section=footer)
