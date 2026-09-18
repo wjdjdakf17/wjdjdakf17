@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=2EA043&height=170&section=header&text=Taeyoon%20Kim&fontAlignX=50&fontAlignY=65&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=2EA043&height=170&section=header&text=Hi%20There%20%F0%9F%91%8B&fontColor=FFFFFF&fontAlignX=50&fontAlignY=65&fontSize=90&animation=twinkling)
 
-<h3 align="center">👋 &nbsp;Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <div align="center">
 
